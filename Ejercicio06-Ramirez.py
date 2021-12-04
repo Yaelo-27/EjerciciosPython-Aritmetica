@@ -9,7 +9,7 @@ def hora(segundos):
     segundos_total  = minutos_decimal*60
 
     
-
+    print("Segundos introducidos :"+segundos)
     print("Horas : "+str(int(horas_entera))+" minutos: "+str(int(minutos_total))+" segundos: "+str(int(segundos_total)))
     
     
